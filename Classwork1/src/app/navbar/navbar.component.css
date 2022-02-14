@@ -1,0 +1,7 @@
+.navbar {
+    /* Needs to be fixed not sticky, because fixed wont take any with otherwise hero image is not starting from zero! */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
